@@ -35,12 +35,6 @@ Este repositório contém a implementação de um processador **RISC-V de 32 bit
 | **Bypasses (Forwarding)** | 0 | **6** |
 | **Stalls Automáticos** | 0 | **1** |
 
----
-
-## 🧠 Transparência e Uso de IA
-O desenvolvimento contou com o suporte do modelo **Gemini Pro 3.1**, utilizado como tutor para depuração de hardware e análise de métricas seguindo a metodologia *Spec-Driven Development*.
-
-* **Evidência de Uso:** O histórico completo das interações e logs de simulação está disponível no arquivo [`testeChatGemini.pdf`](./testeChatGemini.pdf) neste repositório.
 
 ## 💻 Ferramentas Utilizadas
 * **Linguagem:** Verilog
