@@ -2176,3 +2176,7 @@ Dificuldades: Cite os problemas com a execução do projeto no terminal (compila
 Uso de IA: Declare o uso do Gemini Pro 3.1 como tutor para auxiliar na visualização dos ciclos de clock (pipeline timing), depuração dos erros do simulador e validação da lógica booleana em Verilog.  
 
 A estrutura acima cobre todos os requisitos teóricos e práticos de um projeto de arquitetura de computadores. Gostaria de focar em escrever os parágrafos descritivos de alguma dessas seções agora?
+
+me ajude a criar o relatório baseado nas anotações do meu grupo que anexei acima e nas especificações do trabalho
+
+Aqui está a estruturação do seu relatório técnico, integrando as anotações do seu grupo, os logs de execução e as capturas de tela fornecidas.
